@@ -20,15 +20,6 @@ Welcome to my GitHub profile. I am a researcher focusing on the intersection of 
 | **Programming Languages** | Python, Julia, C++, MATLAB, Bash |
 | **Quantum & Simulation Frameworks** | QuTiP, QuantumOptics.jl, Qiskit, Pennylane |
 | **Machine Learning** | PyTorch, TensorFlow, JAX, NumPy, SciPy |
-| **HPC & Tooling** | Linux (Ubuntu/CentOS), Git, Docker, MPI / OpenMP |
-
----
-
-### 📂 Highlighted Repositories
-
-* **[Project-Name-1](link-to-repo):** Numerical simulation framework for open quantum systems under strong driving fields. *Tech stack: Julia, DifferentialEquations.jl.*
-* **[Project-Name-2](link-to-repo):** Applying deep reinforcement learning to optimize state preparation in superconducting qubits. *Tech stack: Python, PyTorch, QuTiP.*
-* **[Project-Name-3](link-to-repo):** A high-performance solver benchmark comparing CPU/GPU scalability for large-dimensional Hilbert spaces. *Tech stack: C++, CUDA.*
 
 ---
 
